@@ -1,1 +1,1 @@
-# cyberteam6.gethub.io
+# cyberteam6.github.io
