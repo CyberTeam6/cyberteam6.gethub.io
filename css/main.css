@@ -3,6 +3,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+div {
+    font-family: 'Open Sans';
+}
 nav ul, footer ul {
     font-family: 'Open Sans';
     padding: 0px;
