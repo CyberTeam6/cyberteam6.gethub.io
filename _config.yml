@@ -2,3 +2,4 @@ name: CyberTeam6
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
