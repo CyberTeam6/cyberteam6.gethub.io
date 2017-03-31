@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "CyberTeam6"
 date: 2017-03-31
 ---
 
