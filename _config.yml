@@ -1,2 +1,4 @@
 name: CyberTeam6
 markdown: kramdown
+
+theme: jekyll-theme-minimal
