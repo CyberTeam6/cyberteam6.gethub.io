@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# CT6-Wiki
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](yeti)
 
 
 <!--
@@ -19,47 +19,46 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Home](index.md)
 
-<!-- A more complex navigation example: ----------------------------------------
+[Binary Exploitation]()
+  * [Windows](binary/windows.md)
+  * [Linux](binary/linux.md)
+  * [Misc](binary/misc.md)
 
-[Menu Item 1]()
+[Cryptography](crypto/crypto.md)
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+[Forensics]()
+  * [Windows](forensics/windows.md)
+  * [Linux](forensics/linux.md)
+  * [Misc](forensics/misc.md)
 
-[Menu Item 2](pages/item2.md)
+[Pen Testing]()
+  * [Recon](pentest/recon.md)
+  * [Scanning](pentest/scan.md)
+  * [Initial Access](pentest/access.md)
+  * [Privilege Escalation](pentest/privex.md)
+  * [Persistence](pentest/persistence.md)
+  * [Pivioting](pentest/piviot.md)
+  * [Tradecraft](pentest/tradecraft.md)
 
-[Menu Item 3](pages/item3.md)
+[Reverse Engineering]()
+  * [Windows](reverse/windows.md)
+  * [Linux](reverse/linux.md)
+  * [Misc](reverse/misc.md)
 
----------------------------------------------------------------------------- -->
+[Scripts]()
+  * [Bash](scripts/bash.md)  
+  * [Python](scripts/python.md)
+  * [Powershell](scripts/powershell.md)
+  * [Ruby](scripts/ruby.md)
 
-<!--
-  -- Change the Language
-  -- Could be useful when there's more than one language wiki.
-  -->
+[Training]()
+  * [Linux](training/linux.md)
+  * [Programming](training/programming.md)
+  * [Security](training/security.md)
+  * [Web](training/web.md)
+  * [Windows](training/windows.md)
 
-<!--
-[Change the Language]()
-
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
--->
-
-<!--
-  -- Let the user choose a theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
-
-<!--
 [gimmick:themechooser](Choose theme)
--->
+
