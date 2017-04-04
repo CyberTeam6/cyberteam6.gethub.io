@@ -72,7 +72,7 @@
   * [Network Ports](references/ports.md)
   * [Unix Rosetta Stone](references/rosetta.htm)
 
-[gimmick:themechooser](Wiki Theme)
+[gimmick:theme (inverse: true)](yeti)
 
 <!-- Code for collapse and expand -->
 <script type="text/javascript"> 
