@@ -1,4 +1,4 @@
-## CyberTeam6 Wiki - This is a collection of information that members of CyberTeam6 maintain
+### CyberTeam6 Wiki
 This project spawned from the fact that our Slack chat was hitting over 10,000 messages and we wanted to ensure we are not losing valuable information
 - - - - - - 
 

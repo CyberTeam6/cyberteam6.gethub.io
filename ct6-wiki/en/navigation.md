@@ -66,5 +66,4 @@
   * [Web](training/web.md)
   * [Windows](training/windows.md)
 
-[gimmick:themechooser](Choose theme)
 
