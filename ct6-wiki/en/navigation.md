@@ -22,6 +22,7 @@
 [Home](index.md)
 
 [Binary Exploitation]()
+  
   * [Windows](binary/windows.md)
   * [Linux](binary/linux.md)
   * [Misc](binary/misc.md)
@@ -29,11 +30,13 @@
 [Cryptography](crypto/crypto.md)
 
 [Forensics]()
+ 
   * [Windows](forensics/windows.md)
   * [Linux](forensics/linux.md)
   * [Misc](forensics/misc.md)
 
 [Pen Testing]()
+ 
   * [Recon](pentest/recon.md)
   * [Scanning](pentest/scan.md)
   * [Initial Access](pentest/access.md)
@@ -43,17 +46,20 @@
   * [Tradecraft](pentest/tradecraft.md)
 
 [Reverse Engineering]()
+ 
   * [Windows](reverse/windows.md)
   * [Linux](reverse/linux.md)
   * [Misc](reverse/misc.md)
 
 [Scripts]()
+ 
   * [Bash](scripts/bash.md)  
   * [Python](scripts/python.md)
   * [Powershell](scripts/powershell.md)
   * [Ruby](scripts/ruby.md)
 
 [Training]()
+ 
   * [Linux](training/linux.md)
   * [Programming](training/programming.md)
   * [Security](training/security.md)
