@@ -1,17 +1,7 @@
-# Title
+# Misc Forensics
+Random Forensics information
 
-Insert information
+ * [22 Popular Computer Forensics Tools](http://resources.infosecinstitute.com/computer-forensics-tools/)
+ * [DFIR.training](http://www.dfir.training)
+ * [About DFIR](http://www.aboutdfir.com)
 
-## Information
-
-### Files
-
-``` 
-Files/File Names 
-```
-
-### Last of Files
-
-```
-Files
-```
