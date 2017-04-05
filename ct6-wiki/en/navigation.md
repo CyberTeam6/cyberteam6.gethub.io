@@ -19,6 +19,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+[Return to CT6](http://www.cyberteam6.net)
+
 [Home](index.md)
 
 [Binary Exploitation]()
@@ -66,4 +68,6 @@
   * [Web](training/web.md)
   * [Windows](training/windows.md)
 
+[Links](links/links.md)
 
+[gimmick:themechooser](Choose theme)
