@@ -27,7 +27,7 @@ for d in range(0, 10000000):
 ```
 
 ### Links
-  * [RSA Worksheet](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html)
-  * [Crypto Pals](http://cryptopals.com/)
-  * [id0-rsa](https://id0-rsa.pub/)
-
+  * [Crypto Pals](http://cryptopals.com/) - A website with crypto challenges
+  * [featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
+  * [id0-rsa](https://id0-rsa.pub/) - Another website with crypto challenges
+  * [RSA Worksheet](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html) - RSA Calculator
